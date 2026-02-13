@@ -1,0 +1,75 @@
+{
+  "__type__": "PrimitiveResult",
+  "__value__": {
+    "pub_results": [
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "meas"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "meas": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "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"
+                    },
+                    "num_bits": 10
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "execution": {
+        "execution_spans": {
+          "__type__": "ExecutionSpans",
+          "__value__": {
+            "spans": [
+              {
+                "__type__": "DoubleSliceSpan",
+                "__value__": {
+                  "start": {
+                    "__type__": "datetime",
+                    "__value__": "2026-02-13T16:27:08.847804"
+                  },
+                  "stop": {
+                    "__type__": "datetime",
+                    "__value__": "2026-02-13T16:27:10.142969"
+                  },
+                  "data_slices": {
+                    "0": [
+                      [
+                        1024
+                      ],
+                      0,
+                      1,
+                      0,
+                      1024
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "version": 2
+    }
+  }
+}
