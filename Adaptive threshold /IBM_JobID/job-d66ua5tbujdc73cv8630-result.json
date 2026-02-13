@@ -1,0 +1,75 @@
+{
+  "__type__": "PrimitiveResult",
+  "__value__": {
+    "pub_results": [
+      {
+        "__type__": "SamplerPubResult",
+        "__value__": {
+          "data": {
+            "__type__": "DataBin",
+            "__value__": {
+              "field_names": [
+                "bell"
+              ],
+              "field_types": [
+                "<class 'qiskit.primitives.containers.bit_array.BitArray'>"
+              ],
+              "shape": [],
+              "fields": {
+                "bell": {
+                  "__type__": "BitArray",
+                  "__value__": {
+                    "array": {
+                      "__type__": "ndarray",
+                      "__value__": "eJydV7tuHEcQ7Eemr7jsJICBCQgC7A9QJsGJA0cGIZ6gwLCMo6RE8lf4h30z1VXdK2U+ksvd2Zl+VFf1zP379rc3v/7u9sW+nh8vT++u519O52+f7893p/P7j9dP14e//vh4fbys8dcPfz5dbuNPHx7+vtyen7/86edXd6f7F3enf07/7/PMLC1vv7Eutx/zDF83bjWQt49ZzcM0DNcgbtfTepfpa0FY7LexBrAWf5joWUuXY7xdI/DM53IQ2+62WtFUqGnWS1fA7cBknv8qAuaxE9VC5II36wVvs1OjQc41GyG6uezSE9GzArWAGumti/NSAytTayuVB6ugrNPrQaVDbdovM2y7RCeZi0ZzZGfMwXhH9GLc78puBxhiPASobC1oFw8WPDSOkAmp9eTlgQ+pOEchN1kcKxe9dgohEzuk/d4AKmMtcz7MItJoTFSsKOxDIz8Qh1kmuFlI0g1WbbA8p0oAQuVHOLdMBlPB42GVA7NyFUbUuuhqO5mZqsxWDnLwg5RpxlWzQ7hiiY/cjAx1TwUMCZRpR43dlEDQcZkPWW5er8I2A31P9hLIESARZpRuV2td2LO8qu8HLMBhec3MA1pqEUKJXA/2lUzmtz1HK9gZ1KBzftcMkhi1yGTf+Ekoq3U/RgXp7D+HQcWNLjI4SxdUFIQTSMDVGqYlFi0kHQPLQj2lBdYyFEOJ6mil20jMNjGWYFfIZrTSE1emJJsCnXmzGMyr9W7dD4ogoGGDkhS0GchbnYBxULMt8i6uemyzOuY2YiNuF7SHDAppIxFu+6dXE2sc9gJHm2SDGrTVJqTS1bOjgtnGqYKgUAkFGxzXJtBDFx+aELpZpBgV6zYopbGgJJ/YlmNRVgZkq+vVDL4FxWCc+DbDupjUbGtBvacF1UIrqdVe5wzZQXqlqg6iRp1eFcnJvFLtqPNARRUbQKkW3T5UhzAdclpVJHFoaqehw1oibuIWHUtZceA9ykHUqq227vivADpUw5LbhR6pWpNIDuiboiLTus7MTRKpINWYCqfo4HwAxMogfGrbVLLb5GhPbAMhb+oeB9KNc6hpfyHzZvi9ECtDuRB29nnnimBJumHWbRBADgx9Ft3GDlSHLk2tELzaRmuHIFL4YNI8OclF+1dim3Uq7uA1XNeJt3qDjvkTFbWpqofC8dpx2C0lOY+JDYiPkpCuXY8GWxUWK6W26GQFL5FM74WYFW13YOHEr+kOKcy5YphEZ9GKLxW46GLcQPZJF3hORuhbS1bDa5VB30GM4dRxKFqA8ruDKRhsve6k6kGj0p8kRy3P4lDr6Vgv9U8RF7g8TxBwKZLhbgaj0qnTghg6eG0tPcLqoy2zLIPujE0coefdSbA3CgYbEUnfwShIQtlibgrIujdZD2qTM8RrEGelOL6N9pVtAaRRLy8a74EgrH3sna6DrVCwwP1/P1ky/A=="
+                    },
+                    "num_bits": 2
+                  }
+                }
+              }
+            }
+          },
+          "metadata": {
+            "circuit_metadata": {}
+          }
+        }
+      }
+    ],
+    "metadata": {
+      "execution": {
+        "execution_spans": {
+          "__type__": "ExecutionSpans",
+          "__value__": {
+            "spans": [
+              {
+                "__type__": "DoubleSliceSpan",
+                "__value__": {
+                  "start": {
+                    "__type__": "datetime",
+                    "__value__": "2026-02-12T14:35:06.821878"
+                  },
+                  "stop": {
+                    "__type__": "datetime",
+                    "__value__": "2026-02-12T14:35:08.868652"
+                  },
+                  "data_slices": {
+                    "0": [
+                      [
+                        4096
+                      ],
+                      0,
+                      1,
+                      0,
+                      4096
+                    ]
+                  }
+                }
+              }
+            ]
+          }
+        }
+      },
+      "version": 2
+    }
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "id": "d66u9bje4kfs73d16nsg",
+  "backend": "ibm_fez",
+  "state": {
+    "status": "Completed"
+  },
+  "params": {
+    "support_qiskit": true,
+    "version": 2,
+    "options": {},
+    "pubs": [
+      [
+        {
+          "__value__": "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",
+          "__type__": "QuantumCircuit"
+        },
+        {
+          "__type__": "ndarray",
+          "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RoGOpo6CrUKFAAuAFOzG1s="
+        },
+        4096
+      ]
+    ]
+  },
+  "program": {
+    "id": "sampler"
+  },
+  "user_id": "IBMid-6940017WWD",
+  "created": "2026-02-12T14:33:19.012062Z",
+  "cost": 600,
+  "status": "Completed",
+  "estimated_running_time_seconds": 2.436532947
+}

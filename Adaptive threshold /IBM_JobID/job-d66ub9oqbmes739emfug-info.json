@@ -1,0 +1,33 @@
+{
+  "id": "d66ub9oqbmes739emfug",
+  "backend": "ibm_torino",
+  "state": {
+    "status": "Completed"
+  },
+  "params": {
+    "pubs": [
+      [
+        {
+          "__type__": "QuantumCircuit",
+          "__value__": "eJyd2GVwVVcYRuFzEiAhuLu7BIfgBCc4JLiGS4BAkIQEd0LdXai7uwt1dy812lI36qW0pbycdYF3OvzpmYEni+SGCbP3991hXEbmiIys8gmJAU+4LD9ImRckH/hwm5I/TuCXnhL6LZZbECvKLUxNS0uvsWvY9J0zU9auzw8PvioM8wN/jvwuehKP/E4HnpJYCpMwGUtjCpbBslgOy2MFrIiVsDJWwapYDatjDayJtbA21sG6WA/rYwNsiI2wMTbBptgMm2MLbImtsDW2wbaYiu2wPXbAjtgJO2MX7IrdMA27Yw/sib2wN/bBvtgP07E/DsCBOAgH4xAcisMwA4fjCByJo3A0jsGxOA7HYyZm4QSciJNwMk7BqTgNp+MMnImzcDZm4xyM4VzMwXk4HxdgLi7ERZiHi3EJLsVlGL+PBbgcC7EIV+BKXIWrcQ2uxXW4HjfgRtyEm3ELbsXimCZDGCSEK+M/wuGnVBANjvA/n4me8VOHZhfm6EdrFv93S66VOihrX6O9Ow5NkqO9OHPyoRf/r79o157tK9rX2d3v0Kg62jcYlZO9vKggenXs8Jdqtm7bf+AJoqkYHpydxUFSmL0klpuXFz8xxbgNj8Fj8Tg8Hk/AE/EkPBlPwVPxNDwdz8Az8Sw8G8/Bc/E8PB8vwAtxO16EF+MleClehpfjFXglXoVX4zV4LV6H1+MNeCPehDfjLXgr3oa34x14J96Fd+M9eC/eh/fjA/ggPoQP4w58BB/Fx/BxfAKfxKfwaXwGn8Xn8Hl8AV/El/BlfAVfxdfwdXwD38S38G18B9/Fnfgevo8f4If4Ee7Cj/ET/BR342f4OX6BX+JX+DV+g9/id/g9/oB78Ef8CX/GX/BX/A1/xz9wL/6J+/Av/Bv/wf0R8YkR8kHIO6SQd0gh75BC3iGFzLUwKT8aOIlhfke2dxh/l5R0eISEngmeiZ4lPEt6lvJM8kz2LO2Z4lnGs6xnOc/ynhU8K3pW8qzsWcWzqmc1z+qeNTxretbyrO1Zx7OuZz3P+p4NPBt6NvJs7NnEs6mnnsTo9DTzzzT3bOHZ0rOVZ2vPNp5tPVM923m29+zg2dGzk2dnzy6eXT27eaZ5dvfs4dnTs5dnb88+nn09+3mme/b3HOA50HOQ52DPIZ5DPYd5ZngO9xzhOdJzlOdozzGeYz3HeY73zPTM8pzgOdFzkudkzymeUz2neU73nOE503OW52zPbM85njHPuZ45nvM853su8Mz1XOi5yDPPc7HnEs+lnss88z0LPJd7FnoWea7wXOm5ynO15xrPtZ7rPNd7bvDc6LnJc7PnFs+tnvH/EAiDaGlrU2s9aycfXMRBtHK1Z7VctVG1RrU7tTC1JbUatQ+1BLX5tO6047TYtM20wrS3tKy0obSWtIu0gLR1GgbRftFS0SbR+tBm0DrQDtDg17TXiNdc1zDXBNfY1qzWgNZU1ijW/NXQ1aTVeNVM1SDV9NTI1JzUcNRE1BhMD6KBpymn0aZ5piGmyaVxpRmlwaRppBGkuaNhowmjsaJZogGiqaFRofmgoaBJoOuvO6+LrtutK617rMurG6trOjuILqRuoa6e7psumW6WrpPukC6ObouuiO6FLoNugI69zroOuE61jrLOrw6tTqqOp86kDqJOn46czpkOl06UjtGmIDowOiU6GsX/AoW3a4o="
+        },
+        {
+          "__type__": "ndarray",
+          "__value__": "eJyb7BfqGxDJyFDGUK2eklqcXKRupaBuk2ahrqOgnpZfVFKUmBefX5SSChJ3S8wpTgWKF2ckFqQC+RoGOpo6CrUKFAAuAFOzG1s="
+        },
+        2048
+      ]
+    ],
+    "support_qiskit": true,
+    "version": 2,
+    "options": {}
+  },
+  "program": {
+    "id": "sampler"
+  },
+  "user_id": "IBMid-6940017WWD",
+  "created": "2026-02-12T14:37:27.356294Z",
+  "cost": 600,
+  "status": "Completed",
+  "estimated_running_time_seconds": 2.509541278
+}
