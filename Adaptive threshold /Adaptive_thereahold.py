@@ -9,7 +9,7 @@ from qiskit import QuantumCircuit, QuantumRegister, ClassicalRegister, transpile
 from qiskit_ibm_runtime import QiskitRuntimeService, SamplerV2 as Sampler
 
 # CONFIGURATION
-IBM_API_TOKEN = "8DSRkWd_Q7I49IpxLgUFT8l2G97GswTwTng8iLs58RI1" 
+IBM_API_TOKEN = "" 
 BACKEND_NAMES = ["ibm_torino", "ibm_marrakesh", "ibm_fez"]
 N_SHOTS = 4096
 N_REPEATS = 5
